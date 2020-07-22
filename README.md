@@ -5,3 +5,5 @@ currently, I am a 3rd-year B.TECH Information Technology student at Symbiosis In
 2.https://kakabisht.github.io./ 
 3.https://programmerprodigy.code.blog/
 4.https://www.linkedin.com/in/hridyesh-bisht-223406133/
+
+ <img src=https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif alt="nyan cat" id="rick">
