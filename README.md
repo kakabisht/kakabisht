@@ -1,6 +1,6 @@
 ## Hola, Yo Soy Hridyesh :wave:
 
-I am a 3rd-year B.TECH Information Technology student at Symbiosis Institute of Technology. Passionate about Technology and Technical communities. I like to read/write Tech blogs or  play basketball or strum a beat on my uke.
+I am a 4th-year B.TECH Information Technology student at Symbiosis Institute of Technology. Who is passionate about Technology and Technical communities. 
 
 #### I believe that "Engineering is the closest thing to magic that exists in the world".
 
