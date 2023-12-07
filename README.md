@@ -4,9 +4,4 @@ Hridyesh graduated from the Symbiosis Institute of Technology pursuing informati
 
 #### I believe that “Engineering is the closest thing to magic in the world.”.
 
-- [GitHub Profile Summary](https://profile-summary-for-github.com/user/kakabisht)
-- [Website](https://kakabisht.github.io./) 
-- [Tech Blog](https://programmerprodigy.code.blog/)
-- [LinkedIn](https://www.linkedin.com/in/hridyesh-bisht-223406133/)
-
- <img src=https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif alt="rick" id="rick">
+<img src=https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif alt="rick" id="rick">
