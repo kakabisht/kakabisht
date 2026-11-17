@@ -20,13 +20,9 @@ I'm a **Content Engineer** who enjoys working at the intersection of **engineeri
 
 ## Currently
 
-I'm a **Content Engineer at Dash0**, working on documentation pipelines, automation, and knowledge-gap analysis.
-
-Previously, I worked at **SUSE** and **OutSystems** as a Technical Knowledge Specialist, focusing on cloud-native platforms, observability, integrations, serverless infrastructure, and developer workflows.
+I'm a **Content Engineer at Dash0**, working on documentation pipelines, automation, and knowledge-gap analysis. Previously, I worked at **SUSE/Rancher** and **OutSystems** as a Technical Knowledge Specialist, focusing on cloud-native platforms, observability, integrations, serverless infrastructure, and developer workflows.
 
 ## Speaking & Writing
-
-I enjoy turning complex technical problems into stories that people can understand.
 
 I've spoken at **Write the Docs Berlin 2026**, **SUSECON Prague 2026**, Google DevFest, GitTogether meetups, Doon Tech community meetups and AsyncAPI community events.
 
@@ -40,8 +36,6 @@ I write about: Documentation, Docs-as-Code, AI, MCP, AI Agents, Automation, Obse
 
 ## Community
 
-I enjoy contributing to technical communities as a **developer, technical writer, and speaker**.
-
 I'm a **GDG Lead** and organize meetups for the **Doon Technical Community**, bringing local developers and technology enthusiasts together to learn, build, and share.
 
 I'm also an **AWS Community Builder**. I was recognized as a **Top 8 Technical Content Creator in 2022**.
@@ -50,6 +44,7 @@ I'm also an **AWS Community Builder**. I was recognized as a **Top 8 Technical C
 
 I write, build, automate, and share what I learn.
 
+👨‍💻 [Website](http://hridyesh.dev/)
 💼 [LinkedIn](https://www.linkedin.com/in/hridyesh-bisht/)  
 🐙 [GitHub](https://github.com/kakabisht/)  
 🐦 [Twitter](https://twitter.com/hridyesh_bisht)
